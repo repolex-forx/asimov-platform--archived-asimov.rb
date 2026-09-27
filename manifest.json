@@ -65,6 +65,99 @@
       ],
       "ast": [
         "aggregate/ast/973897c56692a4be0f664a2606bf1b6e16c8da24/chunk-001.nq.gz"
+      ],
+      "lsp": "aggregate/lsp/973897c56692a4be0f664a2606bf1b6e16c8da24.nq.gz",
+      "dependencies": [
+        {
+          "packageName": "asimov.rb",
+          "ecosystem": "RUBYGEMS",
+          "version": "25.3.0.dev.0",
+          "githubOrg": "asimov-platform",
+          "githubRepo": "asimov-sdk",
+          "githubUrl": "https://github.com/asimov-platform/asimov-sdk",
+          "source": "build_file:Gemfile"
+        },
+        {
+          "packageName": "asimov-config",
+          "ecosystem": "RUBYGEMS",
+          "version": "25.0.0.dev.6",
+          "githubOrg": "asimov-platform",
+          "githubRepo": "asimov.rb",
+          "githubUrl": "https://github.com/asimov-platform/asimov.rb",
+          "source": "build_file:Gemfile"
+        },
+        {
+          "packageName": "asimov-construct",
+          "ecosystem": "RUBYGEMS",
+          "version": "25.0.0.dev.6",
+          "githubOrg": "asimov-platform",
+          "githubRepo": "asimov.rb",
+          "githubUrl": "https://github.com/asimov-platform/asimov.rb",
+          "source": "build_file:Gemfile"
+        },
+        {
+          "packageName": "asimov-dataset",
+          "ecosystem": "RUBYGEMS",
+          "version": "25.0.0.dev.6",
+          "githubOrg": "asimov-platform",
+          "githubRepo": "asimov.rb",
+          "githubUrl": "https://github.com/asimov-platform/asimov.rb",
+          "source": "build_file:Gemfile"
+        },
+        {
+          "packageName": "asimov-flow",
+          "ecosystem": "RUBYGEMS",
+          "version": "25.0.0.dev.6",
+          "githubOrg": "asimov-platform",
+          "githubRepo": "asimov.rb",
+          "githubUrl": "https://github.com/asimov-platform/asimov.rb",
+          "source": "build_file:Gemfile"
+        },
+        {
+          "packageName": "asimov-module",
+          "ecosystem": "RUBYGEMS",
+          "version": "25.0.0.dev.6",
+          "githubOrg": "asimov-platform",
+          "githubRepo": "asimov.rb",
+          "githubUrl": "https://github.com/asimov-platform/asimov.rb",
+          "source": "build_file:Gemfile"
+        },
+        {
+          "packageName": "asimov-ontology",
+          "ecosystem": "RUBYGEMS",
+          "version": "25.0.0.dev.6",
+          "githubOrg": "asimov-platform",
+          "githubRepo": "asimov.rb",
+          "githubUrl": "https://github.com/asimov-platform/asimov.rb",
+          "source": "build_file:Gemfile"
+        },
+        {
+          "packageName": "asimov-protocol",
+          "ecosystem": "RUBYGEMS",
+          "version": "25.0.0.dev.6",
+          "githubOrg": "asimov-platform",
+          "githubRepo": "asimov.rb",
+          "githubUrl": "https://github.com/asimov-platform/asimov.rb",
+          "source": "build_file:Gemfile"
+        },
+        {
+          "packageName": "asimov-sdk",
+          "ecosystem": "RUBYGEMS",
+          "version": "25.0.0.dev.6",
+          "githubOrg": "asimov-platform",
+          "githubRepo": "asimov.rb",
+          "githubUrl": "https://github.com/asimov-platform/asimov.rb",
+          "source": "build_file:Gemfile"
+        },
+        {
+          "packageName": "asimov-vault",
+          "ecosystem": "RUBYGEMS",
+          "version": "25.0.0.dev.6",
+          "githubOrg": "asimov-platform",
+          "githubRepo": "asimov.rb",
+          "githubUrl": "https://github.com/asimov-platform/asimov.rb",
+          "source": "build_file:Gemfile"
+        }
       ]
     }
   ],
