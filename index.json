@@ -1,0 +1,11 @@
+{
+  "org": "asimov-platform",
+  "repo": "archived-asimov.rb",
+  "versions": [
+    {
+      "commit": "973897c56692a4be0f664a2606bf1b6e16c8da24",
+      "tag": "25.0.0.dev.6",
+      "parsed_at": "2026-09-27T19:27:41.569494+00:00"
+    }
+  ]
+}
