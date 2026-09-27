@@ -158,7 +158,9 @@
           "githubUrl": "https://github.com/asimov-platform/asimov.rb",
           "source": "build_file:Gemfile"
         }
-      ]
+      ],
+      "repolex": "aggregate/repolex/973897c56692a4be0f664a2606bf1b6e16c8da24/chunk-001.nq.gz",
+      "dep": "dep/973897c56692a4be0f664a2606bf1b6e16c8da24.nq.gz"
     }
   ],
   "commit": "commit/commit.nq.gz",
